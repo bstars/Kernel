@@ -10,6 +10,12 @@ This repository contains implementation of
 
 
 - Kernel Regression
-- 
+<p>
+  <img width="50%" src="https://github.com/bstars/Kernel/blob/main/kernel_regression/regression.png">
+</p>
+
 - Stein Variational Gradient Descent
+<p>
+  <img width="50%" src="https://github.com/bstars/Kernel/blob/main/svgd/svgd.gif">
+</p>
 
