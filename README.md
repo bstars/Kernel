@@ -9,9 +9,9 @@ This repository contains implementation of
 </p>
 
 
-- Kernel Regression
+- Kernel Regression (with back-tracking line search)
 <p>
-  <img width="50%" src="https://github.com/bstars/Kernel/blob/main/kernel_regression/regression.png">
+  <img width="50%" src="https://github.com/bstars/Kernel/blob/main/kernel_regression/regression.gif">
 </p>
 
 - Stein Variational Gradient Descent
